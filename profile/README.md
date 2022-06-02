@@ -1,4 +1,3 @@
-# Fairy-Stockfish
 [Fairy-Stockfish](https://github.com/ianfab/Fairy-Stockfish) is a chess variant engine by [Fabian Fichter](https://github.com/ianfab) derived from [Stockfish](https://github.com/official-stockfish/Stockfish) supporting various regional, historical, and modern chess variants as well as games with user-defined rules. Besides the core engine the project is accompanied by several repositories for development, testing, and integration. This landscape of Fairy-Stockfish projects is summarized below. See the [project website](https://fairy-stockfish.github.io) for more information.
 
 ### Core
