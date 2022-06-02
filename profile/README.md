@@ -2,10 +2,10 @@
 
 ### Core
 * Fairy-Stockfish: https://github.com/ianfab/Fairy-Stockfish
-* Fairy-Stockfish website: https://github.com/fairy-stockfish/fairy-stockfish.github.io
+* Fairy-Stockfish website: https://github.com/fairy-stockfish/fairy-stockfish.github.io ([website](https://fairy-stockfish.github.io/))
 
 ### User interfaces
-* Fairy-Stockfish playground in the browser: https://github.com/ianfab/fairyground
+* Fairy-Stockfish playground in the browser: https://github.com/ianfab/fairyground ([website](https://fairyground.vercel.app/))
 * Minimalistic Fairy-Stockfish GUI: https://github.com/ianfab/FairyFishGUI
 
 ### Bindings and ports
@@ -31,4 +31,4 @@
 * Opening books: https://github.com/ianfab/books
 * Helper script for code modification: https://github.com/ianfab/fishutils
 * Cutechess binaries for fishtest: https://github.com/ianfab/FishCooking
-* Documentation of variant standards: https://github.com/fairy-stockfish/chess-variant-standards
+* Documentation of variant standards: https://github.com/fairy-stockfish/chess-variant-standards ([website](https://fairy-stockfish.github.io/chess-variant-standards/))
