@@ -6,7 +6,7 @@
 
 ### User interfaces
 * Fairy-Stockfish playground in the browser: https://github.com/ianfab/fairyground ([website](https://fairyground.vercel.app/))
-* Minimalistic Fairy-Stockfish GUI: https://github.com/ianfab/FairyFishGUI
+* Minimalistic Fairy-Stockfish GUI: https://github.com/fairy-stockfish/FairyFishGUI
 
 ### Bindings and ports
 * python binding: https://github.com/ianfab/Fairy-Stockfish#python ([pypi](https://pypi.org/project/pyffish))
