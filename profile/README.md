@@ -16,8 +16,8 @@
 
 ### NNUE
 * Releases with built-in NNUE: https://github.com/ianfab/Fairy-Stockfish-NNUE
-* Variant NNUE training: https://github.com/ianfab/variant-nnue-pytorch
-* Training data generator: https://github.com/ianfab/variant-nnue-tools
+* Variant NNUE training: https://github.com/fairy-stockfish/variant-nnue-pytorch
+* Training data generator: https://github.com/fairy-stockfish/variant-nnue-tools
 
 ### Testing
 * Distributed testing: https://github.com/ianfab/fishtest ([website](http://www.variantfishtest.org:6543/tests))
