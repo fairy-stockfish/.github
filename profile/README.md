@@ -17,7 +17,7 @@
 * WASM port: https://github.com/fairy-stockfish/fairy-stockfish.wasm ([npm](https://www.npmjs.com/package/fairy-stockfish-nnue.wasm))
 
 ### NNUE
-* Releases with built-in NNUE: https://github.com/ianfab/Fairy-Stockfish-NNUE
+* Releases with built-in NNUE: https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE
 * Variant NNUE training: https://github.com/fairy-stockfish/variant-nnue-pytorch
 * Training data generator: https://github.com/fairy-stockfish/variant-nnue-tools
 
@@ -30,5 +30,5 @@
 ### Utilities for testing and development
 * Opening book generator: https://github.com/fairy-stockfish/bookgen
 * Opening books: https://github.com/ianfab/books
-* Helper script for code modification: https://github.com/ianfab/fishutils
 * Cutechess binaries for fishtest: https://github.com/ianfab/FishCooking
+* Helper script for code modification: https://github.com/ianfab/fishutils
