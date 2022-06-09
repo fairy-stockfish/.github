@@ -11,7 +11,7 @@
 ### Bindings and ports
 * python binding: https://github.com/ianfab/Fairy-Stockfish#python ([pypi](https://pypi.org/project/pyffish))
 * javascript binding: https://github.com/ianfab/Fairy-Stockfish#javascript ([npm](https://www.npmjs.com/package/ffish))
-* WASM port: https://github.com/ianfab/fairy-stockfish.wasm ([npm](https://www.npmjs.com/package/fairy-stockfish-nnue.wasm))
+* WASM port: https://github.com/fairy-stockfish/fairy-stockfish.wasm ([npm](https://www.npmjs.com/package/fairy-stockfish-nnue.wasm))
 * Fairy-Stockfish WASM demo: https://github.com/ianfab/fairy-stockfish-nnue-wasm-demo ([website](https://fairy-stockfish-nnue-wasm.vercel.app/))
 
 ### NNUE
@@ -26,7 +26,7 @@
 * Local tuning: https://github.com/ianfab/spsa
 
 ### Utilities for testing and development
-* Opening book generator: https://github.com/ianfab/bookgen
+* Opening book generator: https://github.com/fairy-stockfish/bookgen
 * Opening book generator in the browser: https://github.com/ianfab/bookgen-wasm ([website](https://bookgen-wasm.vercel.app/))
 * Opening books: https://github.com/ianfab/books
 * Helper script for code modification: https://github.com/ianfab/fishutils
