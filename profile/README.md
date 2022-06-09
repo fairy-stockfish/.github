@@ -3,16 +3,18 @@
 ### Core
 * Fairy-Stockfish: https://github.com/ianfab/Fairy-Stockfish
 * Fairy-Stockfish website: https://github.com/fairy-stockfish/fairy-stockfish.github.io ([website](https://fairy-stockfish.github.io/))
+* Documentation of chess variant standards: https://github.com/fairy-stockfish/chess-variant-standards ([website](https://fairy-stockfish.github.io/chess-variant-standards/))
 
-### User interfaces
+### Websites and user interfaces
 * Fairy-Stockfish playground in the browser: https://github.com/ianfab/fairyground ([website](https://fairyground.vercel.app/))
-* Minimalistic Fairy-Stockfish GUI: https://github.com/fairy-stockfish/FairyFishGUI
+* Fairy-Stockfish WASM demo: https://github.com/ianfab/fairy-stockfish-nnue-wasm-demo ([website](https://fairy-stockfish-nnue-wasm.vercel.app/))
+* Opening book generator in the browser: https://github.com/ianfab/bookgen-wasm ([website](https://bookgen-wasm.vercel.app/))
+* Minimalistic offline Fairy-Stockfish GUI: https://github.com/fairy-stockfish/FairyFishGUI
 
 ### Bindings and ports
 * python binding: https://github.com/ianfab/Fairy-Stockfish#python ([pypi](https://pypi.org/project/pyffish))
 * javascript binding: https://github.com/ianfab/Fairy-Stockfish#javascript ([npm](https://www.npmjs.com/package/ffish))
 * WASM port: https://github.com/fairy-stockfish/fairy-stockfish.wasm ([npm](https://www.npmjs.com/package/fairy-stockfish-nnue.wasm))
-* Fairy-Stockfish WASM demo: https://github.com/ianfab/fairy-stockfish-nnue-wasm-demo ([website](https://fairy-stockfish-nnue-wasm.vercel.app/))
 
 ### NNUE
 * Releases with built-in NNUE: https://github.com/ianfab/Fairy-Stockfish-NNUE
@@ -27,8 +29,6 @@
 
 ### Utilities for testing and development
 * Opening book generator: https://github.com/fairy-stockfish/bookgen
-* Opening book generator in the browser: https://github.com/ianfab/bookgen-wasm ([website](https://bookgen-wasm.vercel.app/))
 * Opening books: https://github.com/ianfab/books
 * Helper script for code modification: https://github.com/ianfab/fishutils
 * Cutechess binaries for fishtest: https://github.com/ianfab/FishCooking
-* Documentation of variant standards: https://github.com/fairy-stockfish/chess-variant-standards ([website](https://fairy-stockfish.github.io/chess-variant-standards/))
