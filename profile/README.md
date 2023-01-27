@@ -24,7 +24,7 @@
 ### Testing
 * Distributed testing: https://github.com/ianfab/fishtest ([website](http://www.variantfishtest.org:6543/tests))
 * Variant-agnostic local testing: https://github.com/ianfab/variantfishtest
-* Testing for bughouse based on pyffish: https://github.com/ianfab/fairyfishtest
+* Testing for bughouse based on pyffish: https://github.com/fairy-stockfish/fairyfishtest
 * Local tuning: https://github.com/ianfab/spsa
 
 ### Utilities for testing and development
