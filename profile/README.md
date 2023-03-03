@@ -1,7 +1,7 @@
-[Fairy-Stockfish](https://github.com/ianfab/Fairy-Stockfish) is a chess variant engine by [Fabian Fichter](https://github.com/ianfab) derived from [Stockfish](https://github.com/official-stockfish/Stockfish) supporting various regional, historical, and modern chess variants as well as games with user-defined rules. Besides the core engine the project is accompanied by several repositories for development, testing, and integration. This landscape of Fairy-Stockfish projects is summarized below. See the [project website](https://fairy-stockfish.github.io) for more information.
+[Fairy-Stockfish](https://github.com/fairy-stockfish/Fairy-Stockfish) is a chess variant engine by [Fabian Fichter](https://github.com/ianfab) derived from [Stockfish](https://github.com/official-stockfish/Stockfish) supporting various regional, historical, and modern chess variants as well as games with user-defined rules. Besides the core engine the project is accompanied by several repositories for development, testing, and integration. This landscape of Fairy-Stockfish projects is summarized below. See the [project website](https://fairy-stockfish.github.io) for more information.
 
 ### Core
-* Fairy-Stockfish: https://github.com/ianfab/Fairy-Stockfish
+* Fairy-Stockfish: https://github.com/fairy-stockfish/Fairy-Stockfish
 * Fairy-Stockfish website: https://github.com/fairy-stockfish/fairy-stockfish.github.io ([website](https://fairy-stockfish.github.io/))
 * Documentation of chess variant standards: https://github.com/fairy-stockfish/chess-variant-standards ([website](https://fairy-stockfish.github.io/chess-variant-standards/))
 
@@ -12,8 +12,8 @@
 * Minimalistic offline Fairy-Stockfish GUI: https://github.com/fairy-stockfish/FairyFishGUI
 
 ### Bindings and ports
-* python binding: https://github.com/ianfab/Fairy-Stockfish#python ([pypi](https://pypi.org/project/pyffish))
-* javascript binding: https://github.com/ianfab/Fairy-Stockfish#javascript ([npm](https://www.npmjs.com/package/ffish))
+* python binding: https://github.com/fairy-stockfish/Fairy-Stockfish#python ([pypi](https://pypi.org/project/pyffish))
+* javascript binding: https://github.com/fairy-stockfish/Fairy-Stockfish#javascript ([npm](https://www.npmjs.com/package/ffish))
 * WASM port: https://github.com/fairy-stockfish/fairy-stockfish.wasm ([npm](https://www.npmjs.com/package/fairy-stockfish-nnue.wasm))
 
 ### NNUE
