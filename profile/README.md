@@ -22,7 +22,7 @@
 * Training data generator: [fairy-stockfish/variant-nnue-tools](https://github.com/fairy-stockfish/variant-nnue-tools)
 
 ### Testing
-* Distributed testing: [ianfab/fishtest](https://github.com/ianfab/fishtest) ([website](http://www.variantfishtest.org:6543/tests))
+* Distributed testing: [ianfab/fishtest](https://github.com/ianfab/fishtest)
 * Variant-agnostic local testing: [ianfab/variantfishtest](https://github.com/ianfab/variantfishtest)
 * Testing for bughouse based on pyffish: [fairy-stockfish/fairyfishtest](https://github.com/fairy-stockfish/fairyfishtest)
 * Local tuning: [ianfab/spsa](https://github.com/ianfab/spsa)
