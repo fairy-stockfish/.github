@@ -9,7 +9,6 @@
 * Fairy-Stockfish playground in the browser: [ianfab/fairyground](https://github.com/ianfab/fairyground) ([website](https://fairyground.vercel.app/))
 * Fairy-Stockfish WASM demo: [ianfab/fairy-stockfish-nnue-wasm-demo](https://github.com/ianfab/fairy-stockfish-nnue-wasm-demo) ([website](https://fairy-stockfish-nnue-wasm.vercel.app/))
 * Opening book generator in the browser: [ianfab/bookgen-wasm](https://github.com/ianfab/bookgen-wasm) ([website](https://bookgen-wasm.vercel.app/))
-* Minimalistic offline Fairy-Stockfish GUI: [fairy-stockfish/FairyFishGUI](https://github.com/fairy-stockfish/FairyFishGUI) (deprecated)
 
 ### Bindings and ports
 * python binding: [fairy-stockfish/Fairy-Stockfish](https://github.com/fairy-stockfish/Fairy-Stockfish#python) ([pypi](https://pypi.org/project/pyffish))
@@ -31,4 +30,3 @@
 * Opening book generator: [fairy-stockfish/bookgen](https://github.com/fairy-stockfish/bookgen)
 * Opening books: [ianfab/books](https://github.com/ianfab/books)
 * Cutechess binaries for fishtest: [ianfab/FishCooking](https://github.com/ianfab/FishCooking)
-* Helper script for code modification: [ianfab/fishutils](https://github.com/ianfab/fishutils)
