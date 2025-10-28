@@ -14,6 +14,7 @@
 * python binding: [fairy-stockfish/Fairy-Stockfish](https://github.com/fairy-stockfish/Fairy-Stockfish#python) ([pypi](https://pypi.org/project/pyffish))
 * javascript binding: [fairy-stockfish/Fairy-Stockfish](https://github.com/fairy-stockfish/Fairy-Stockfish#javascript) ([npm](https://www.npmjs.com/package/ffish))
 * WASM port: [fairy-stockfish/fairy-stockfish.wasm](https://github.com/fairy-stockfish/fairy-stockfish.wasm) ([npm](https://www.npmjs.com/package/fairy-stockfish-nnue.wasm))
+* bookgen WASM: [fairy-stockfish/fairy-stockfish.wasm@bookgen](https://github.com/fairy-stockfish/fairy-stockfish.wasm/tree/bookgen) ([npm](https://www.npmjs.com/package/bookgen.wasm))
 
 ### NNUE
 * Releases with built-in NNUE: [fairy-stockfish/Fairy-Stockfish-NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE)
