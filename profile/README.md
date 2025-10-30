@@ -25,5 +25,5 @@
 * Variant-agnostic local testing: [ianfab/variantfishtest](https://github.com/ianfab/variantfishtest)
 * Testing for bughouse based on pyffish: [fairy-stockfish/fairyfishtest](https://github.com/fairy-stockfish/fairyfishtest)
 * Opening book generator: [fairy-stockfish/bookgen](https://github.com/fairy-stockfish/bookgen)
-* Opening books: [ianfab/books](https://github.com/ianfab/books)
+* Opening books: [fairy-stockfish/books](https://github.com/fairy-stockfish/books)
 * Local tuning: [ianfab/spsa](https://github.com/ianfab/spsa)
