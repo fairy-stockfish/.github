@@ -22,8 +22,8 @@
 * Training data generator: [fairy-stockfish/variant-nnue-tools](https://github.com/fairy-stockfish/variant-nnue-tools)
 
 ### Testing
-* Variant-agnostic local testing: [ianfab/variantfishtest](https://github.com/ianfab/variantfishtest)
+* Variant-agnostic local testing: [fairy-stockfish/variantfishtest](https://github.com/fairy-stockfish/variantfishtest)
 * Testing for bughouse based on pyffish: [fairy-stockfish/fairyfishtest](https://github.com/fairy-stockfish/fairyfishtest)
 * Opening book generator: [fairy-stockfish/bookgen](https://github.com/fairy-stockfish/bookgen)
 * Opening books: [fairy-stockfish/books](https://github.com/fairy-stockfish/books)
-* Local tuning: [ianfab/spsa](https://github.com/ianfab/spsa)
+* Local tuning: [fairy-stockfish/spsa](https://github.com/fairy-stockfish/spsa)
