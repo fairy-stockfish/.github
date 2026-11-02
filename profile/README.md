@@ -16,10 +16,11 @@
 * WASM port: [fairy-stockfish/fairy-stockfish.wasm](https://github.com/fairy-stockfish/fairy-stockfish.wasm) ([npm](https://www.npmjs.com/package/fairy-stockfish-nnue.wasm))
 * bookgen WASM: [fairy-stockfish/fairy-stockfish.wasm@bookgen](https://github.com/fairy-stockfish/fairy-stockfish.wasm/tree/bookgen) ([npm](https://www.npmjs.com/package/bookgen.wasm))
 
-### NNUE
+### Tools
 * Releases with built-in NNUE: [fairy-stockfish/Fairy-Stockfish-NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE)
 * Variant NNUE training: [fairy-stockfish/variant-nnue-pytorch](https://github.com/fairy-stockfish/variant-nnue-pytorch)
 * Training data generator: [fairy-stockfish/variant-nnue-tools](https://github.com/fairy-stockfish/variant-nnue-tools)
+* Tablebase generator: [fairy-stockfish/variant-tb](https://github.com/fairy-stockfish/variant-tb)
 
 ### Testing
 * Variant-agnostic local testing: [fairy-stockfish/variantfishtest](https://github.com/fairy-stockfish/variantfishtest)
