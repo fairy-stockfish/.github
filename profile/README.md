@@ -7,7 +7,7 @@
 * Documentation of chess variant standards: [fairy-stockfish/chess-variant-standards](https://github.com/fairy-stockfish/chess-variant-standards) ([website](https://fairy-stockfish.github.io/chess-variant-standards/))
 
 ### Websites and user interfaces
-* Fairy-Stockfish playground in the browser: [ianfab/fairyground](https://github.com/ianfab/fairyground) ([website](https://fairyground.vercel.app/))
+* Fairy-Stockfish playground in the browser: [fairy-stockfish/fairyground](https://github.com/fairy-stockfish/fairyground) ([website](https://play.fairy-stockfish.org/))
 * Fairy-Stockfish WASM demo: [ianfab/fairy-stockfish-nnue-wasm-demo](https://github.com/ianfab/fairy-stockfish-nnue-wasm-demo) ([website](https://fairy-stockfish-nnue-wasm.vercel.app/))
 * Opening book generator in the browser: [ianfab/bookgen-wasm](https://github.com/ianfab/bookgen-wasm) ([website](https://bookgen-wasm.vercel.app/))
 
