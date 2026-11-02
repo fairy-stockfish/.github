@@ -2,6 +2,7 @@
 
 ### Core
 * Fairy-Stockfish: [fairy-stockfish/Fairy-Stockfish](https://github.com/fairy-stockfish/Fairy-Stockfish)
+* Releases with built-in NNUE: [fairy-stockfish/Fairy-Stockfish-NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE)
 * Fairy-Stockfish website: [fairy-stockfish/fairy-stockfish.github.io](https://github.com/fairy-stockfish/fairy-stockfish.github.io) ([website](https://fairy-stockfish.github.io/))
 * Documentation of chess variant standards: [fairy-stockfish/chess-variant-standards](https://github.com/fairy-stockfish/chess-variant-standards) ([website](https://fairy-stockfish.github.io/chess-variant-standards/))
 
@@ -17,7 +18,6 @@
 * bookgen WASM: [fairy-stockfish/fairy-stockfish.wasm@bookgen](https://github.com/fairy-stockfish/fairy-stockfish.wasm/tree/bookgen) ([npm](https://www.npmjs.com/package/bookgen.wasm))
 
 ### Tools
-* Releases with built-in NNUE: [fairy-stockfish/Fairy-Stockfish-NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE)
 * Variant NNUE training: [fairy-stockfish/variant-nnue-pytorch](https://github.com/fairy-stockfish/variant-nnue-pytorch)
 * Training data generator: [fairy-stockfish/variant-nnue-tools](https://github.com/fairy-stockfish/variant-nnue-tools)
 * Tablebase generator: [fairy-stockfish/variant-tb](https://github.com/fairy-stockfish/variant-tb)
