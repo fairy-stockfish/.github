@@ -8,8 +8,8 @@
 
 ### Websites and user interfaces
 * Fairy-Stockfish playground in the browser: [fairy-stockfish/fairyground](https://github.com/fairy-stockfish/fairyground) ([website](https://play.fairy-stockfish.org/))
-* Fairy-Stockfish WASM demo: [ianfab/fairy-stockfish-nnue-wasm-demo](https://github.com/ianfab/fairy-stockfish-nnue-wasm-demo) ([website](https://fairy-stockfish-nnue-wasm.vercel.app/))
-* Opening book generator in the browser: [ianfab/bookgen-wasm](https://github.com/ianfab/bookgen-wasm) ([website](https://bookgen-wasm.vercel.app/))
+* Fairy-Stockfish WASM demo: [fairy-stockfish/fairy-stockfish-nnue-wasm-demo](https://github.com/fairy-stockfish/fairy-stockfish-nnue-wasm-demo) ([website](https://fairy-stockfish-nnue-wasm.vercel.app/))
+* Opening book generator in the browser: [fairy-stockfish/bookgen-wasm](https://github.com/fairy-stockfish/bookgen-wasm) ([website](https://bookgen-wasm.vercel.app/))
 
 ### Bindings and ports
 * python binding: [fairy-stockfish/Fairy-Stockfish](https://github.com/fairy-stockfish/Fairy-Stockfish#python) ([pypi](https://pypi.org/project/pyffish))
